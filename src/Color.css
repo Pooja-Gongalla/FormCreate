@@ -1,0 +1,13 @@
+.Container
+{
+    align-items: center;
+    display: flex;
+
+}
+.buttonr {
+    align-items: end;
+  }
+  
+  .buttong {
+    align-items: start;
+  }
